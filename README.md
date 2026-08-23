@@ -16,6 +16,7 @@ The intended application is a safety compliance system that can process images c
 The complete pipeline includes model training/fine-tuning, image inference, bounding-box detection, annotated image generation, JSON detection logging, and ONNX-based deployment.
 
 ---
+<img width="1402" height="1122" alt="OUTPUT" src="https://github.com/user-attachments/assets/92259c2b-e5f2-4b82-aefc-acc9f2fbdd12" />
 
 ## 2. Objective
 
